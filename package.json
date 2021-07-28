@@ -1,6 +1,5 @@
-
 {
-  "name": "react-native-tableview",
+  "name": "react-native-jttableview",
   "version": "1.0.0",
   "description": "React Native TableView Components",
   "main": "index.js",
