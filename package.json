@@ -1,0 +1,34 @@
+
+{
+  "name": "react-native-tableview",
+  "version": "1.0.0",
+  "description": "React Native TableView Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "tableview",
+    "iOS",
+    "Android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiang756797147/tableview.git"
+  },
+  "author": "jiang",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "jest": "^26.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
